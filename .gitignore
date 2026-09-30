@@ -1,0 +1,30 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+.pytest_cache/
+
+*.py[cod]
+
+.env
+
+.DS_Store
+
+
+# Generated images
+
+static/panels/*
+!static/panels/.gitkeep
+
+
+# Generated PDFs
+
+static/exports/*
+!static/exports/.gitkeep
+
+
+# Generated comic JSON
+
+data/comics/*
+!data/comics/.gitkeep

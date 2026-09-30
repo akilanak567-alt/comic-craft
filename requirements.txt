@@ -1,0 +1,16 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+jinja2>=3.1,<4
+python-multipart>=0.0.20,<1
+python-dotenv>=1.1,<2
+pydantic>=2.10,<3
+google-genai>=1.40,<2
+fpdf2>=2.8,<3
+Pillow>=10,<13
+pytest>=8,<9
+httpx>=0.28,<1
+diffusers>=0.35
+transformers>=4.50
+accelerate>=1.0
+safetensors>=0.5
+torch>=2.0
